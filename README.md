@@ -1,4 +1,4 @@
-# Food-Vision-Smol
+# Food-Vision
 
 A Deep Learning Model which can classify 101 classes of Food Images, Made with Transfer Learning - EfficientNetB0)
 
