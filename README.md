@@ -9,3 +9,5 @@ Used ResNetV2 and EfficientNetB0 as base models and got better results for Effic
 
 
 
+
+![image](https://user-images.githubusercontent.com/77894804/167252504-dff8f86c-ec32-496b-881f-f255992f4d29.png)
