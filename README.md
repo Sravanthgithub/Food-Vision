@@ -12,4 +12,4 @@ Used ResNetV2 and EfficientNetB0 as base models and got better results for Effic
 3. streamlit run app.py
 4. Upload a food image (from the 100 classes to get correct predicitions)
 5. Now u'll be able to see the prediciton
-6. Btw, don't forget to download the dependencies/requirements
+6. Btw, don't forget to download the dependencies/requirements (pip install tensorflow streamlit matplotlib numpy)
