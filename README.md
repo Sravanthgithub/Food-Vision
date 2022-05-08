@@ -13,3 +13,5 @@ Used ResNetV2 and EfficientNetB0 as base models and got better results for Effic
 4. Upload a food image (from the 100 classes to get correct predicitions)
 5. Now u'll be able to see the prediciton
 6. Btw, don't forget to download the dependencies/requirements (pip install tensorflow streamlit matplotlib numpy)
+
+### You can see some of the Model's Predicitons on `predicitons.md` file
