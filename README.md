@@ -15,3 +15,5 @@ Used ResNetV2 and EfficientNetB0 as base models and got better results for Effic
 6. Btw, don't forget to download the dependencies/requirements (pip install tensorflow streamlit matplotlib numpy)
 
 ### You can see some of the Model's Predicitons on `predicitons.md` file
+
+#### PS - Couldn't deply the app because the model was built using mixed precision and unfortunately streamlit servers don't support mixed precision.
